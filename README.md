@@ -1,4 +1,4 @@
-# Property-Investment-Analysis Kaggle Competition
+# Property-Investment-Analysis-Kaggle-Competition
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
